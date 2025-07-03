@@ -37,7 +37,7 @@ Check out more on my [pinned repositories](https://github.com/Raghav847?tab=repo
 ## 📊 GitHub Stats
 
 ![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghav847&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav847&layout=compact&theme=radical)
+
 
 ---
 

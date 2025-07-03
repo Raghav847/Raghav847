@@ -9,9 +9,8 @@
 
 I'm a passionate software engineer who enjoys building impactful tech projects across the stack—from elegant UIs to scalable backends. I love combining my knowledge of machine learning, cloud systems, and computer networks to create smart and efficient applications.
 
-- 🔭 Currently building: **Movie GPT**, an AI-powered movie recommendation platform  
 - 🧠 Exploring: **WebRTC**, **Socket.io**, and **LLMs** for real-time collaboration tools  
-- 🛠️ Tech Stack: React, Next.js, TypeScript, Python, Firebase, PostgreSQL, Docker, Kubernetes  
+- 🛠️ Tech Stack: React, Next.js, TypeScript, **Go**, Python, Firebase, PostgreSQL, Docker, Kubernetes  
 - 📦 Working with: REST APIs, Prisma ORM, Tailwind CSS, AWS, GCP, Azure
 
 ---
@@ -30,8 +29,8 @@ Check out more on my [pinned repositories](https://github.com/Raghav847?tab=repo
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/raghav-k847/)
-- 🐦 [Twitter](https://x.com/Raghav_847) *(if applicable)*  
-- 📩 Reach out: `raghav.k@email.com`
+- 🐦 [Twitter](https://x.com/Raghav_847) 
+- 📩 Reach out: `raaghav.khandelwal@gmail.com`
 
 ---
 

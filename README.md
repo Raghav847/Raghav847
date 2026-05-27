@@ -2,7 +2,7 @@
 
 **Full-Stack Sorcerer • AI/ML Mad Scientist • Cloud Escape Artist**
 
-![Typing Cat](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![This is Fine](https://media.giphy.com/media/RMBAIfEfulAqgdyWH6/giphy.gif)
 
 ### **The Pitch**
 I turn caffeine into production code, debug nightmares at 3 AM, and occasionally convince large language models to stop hallucinating. 

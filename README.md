@@ -2,7 +2,7 @@
 
 **Full-Stack Sorcerer • AI/ML Mad Scientist • Cloud Escape Artist**
 
-![This is Fine]([https://media.giphy.com/media/RMBAIfEfulAqgdyWH6/giphy.gif](https://s3.thehackerblog.com/findthatmeme/92afa2d5-fb64-4ecb-93c6-60c1bca392ab.jpeg))
+![This is Fine]([https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5hc215ODhpdGlvbWl5ZHRrazdkaXFyYXVoeDk4bDFpOGl2Z3l2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTur7XlVDUdqM/giphy.gif))
 
 ### **The Pitch**
 I turn caffeine into production code, debug nightmares at 3 AM, and occasionally convince large language models to stop hallucinating. 

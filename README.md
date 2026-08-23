@@ -38,15 +38,6 @@ When I'm not fighting merge conflicts or explaining to my family that "the cloud
 
 ---
 
-### 🚀 Featured Work
-*(Replace these with your real projects)*
-
-- **Project Name** — Short one-liner about what it does + tech used. [Live](link) • [Code](link)
-- **Project Name** — Another short description focusing on impact or interesting challenge.
-- **Project Name** — Something AI/ML or systems-related if possible.
-
----
-
 ### ✨ Fun Facts
 - Once spent 6 hours debugging a missing semicolon (we don’t talk about it)
 - Spirit animal: raccoon (clever, nocturnal, survives on questionable code)

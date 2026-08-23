@@ -45,6 +45,16 @@ When I'm not fighting merge conflicts or explaining to my family that "the cloud
 
 ---
 
+### 📊 GitHub Stats
+
+![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f97583&icon_color=79c0ff&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f97583&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&stroke=f97583&ring=f97583&fire=f97583&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=f97583&sideLabels=c9d1d9&dates=c9d1d9)
+
+---
+
 ### 📫 Let’s Connect
 - **LinkedIn**: [Raghav Khandelwal](https://www.linkedin.com/in/raghav-k847/)
 - **Email**: raaghav.khandelwal@gmail.com

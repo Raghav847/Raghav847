@@ -1,63 +1,30 @@
-# 👋 Raghav Khandelwal
+# Raghav Khandelwal
 
-**Full-Stack Sorcerer • AI/ML Enthusiast • Cloud Escape Artist**
+**Software Engineer | Backend | Full-Stack | AI/ML**
 
-![This is Fine](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5hc215ODhpdGlvbWl5ZHRrazdkaXFyYXVoeDk4bDFpOGl2Z3l2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTur7XlVDUdqM/giphy.gif)
+Interested in building scalable backend systems, distributed applications, and AI-powered products.
 
-I turn caffeine into production code, debug nightmares at 3 AM, and occasionally convince large language models to stop hallucinating.
+### Tech Stack
 
-When I'm not fighting merge conflicts or explaining to my family that "the cloud" isn't weather, I'm building systems that (hopefully) don't break in production.
+**Languages:** Python, Go, TypeScript, JavaScript
 
----
+**Backend:** Node.js, Express, FastAPI, Gin
 
-### 🔭 What I'm Currently Obsessed With
-- Designing scalable backend systems and high-performance APIs
-- Distributed systems, event-driven architecture, and clever caching
-- Database optimization and making things "eventually consistent" (but not *too* eventual)
-- Exploring AI/ML tooling that actually ships (LangChain, RAG pipelines, etc.)
-- Character development via occasional production incidents
+**Frontend:** React, Next.js
 
----
+**Databases & Infrastructure:** PostgreSQL, Redis, Docker, AWS
 
-### 🛠️ Tech Stack
+**AI/ML:** OpenAI API, RAG, LangChain, PyTorch
 
-**Languages**  
-`Python` `TypeScript` `Go`
+### Currently Exploring
 
-**Frontend**  
-`React` `Next.js`
+- Distributed systems and backend architecture
+- Go and high-performance services
+- AI agents, RAG, and LLM applications
+- Cloud infrastructure and system design
 
-**Backend**  
-`Node.js` `FastAPI` `Gin`
+### Connect
 
-**Data & Infra**  
-`PostgreSQL` `Redis` `Docker` `Kubernetes` `AWS`
-
-**AI/ML**  
-`OpenAI` `LangChain` `PyTorch`
-
----
-
-### ✨ Fun Facts
-- Once spent 6 hours debugging a missing semicolon (we don’t talk about it)
-- Spirit animal: raccoon (clever, nocturnal, survives on questionable code)
-- Firm believer that every bug is just an undocumented feature… waiting to ruin Friday
-
----
-
-### 📫 Let’s Connect
-- **LinkedIn**: [Raghav Khandelwal](https://www.linkedin.com/in/raghav-k847/)
-- **Email**: raaghav.khandelwal@gmail.com
-
-**Currently accepting**: Interesting problems, good memes, and production outages that resolve themselves.
-
----
-
-*"The best code is the code that ships... preferably without waking me up at 2 AM."*
-
-*Powered by ☕ + sheer spite*
-
-<!-- Optional but highly recommended: Add these below -->
-<!-- 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/anurag
+- [LinkedIn](https://www.linkedin.com/in/raghav-k847/)
+- [Portfolio](https://raghavk.dev)
+- [Email](mailto:raaghav.khandelwal@gmail.com)
